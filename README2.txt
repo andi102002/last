@@ -58,5 +58,3 @@ Minified file is a code that already minimized to REDUCE LOAD times and bandwith
 
 ## License & Copyright
 All the source of the images are painted by Aflinxh. If u want to use the images, please contribute the creator: Image by Aflinxh, or contact him
-
-Thnkuuuu....
